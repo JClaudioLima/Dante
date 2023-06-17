@@ -1,0 +1,224 @@
+[
+    {
+        "id": "Computador-01",
+        "titulo": "Pc Gamer i3 10100F",
+        "imagen": "./img/Computador/01.jpg",
+        "categoria": {
+            "nombre": "Computador",
+            "id": "Computador"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Computador-02",
+        "titulo": "Pc Gamer i7 10700F",
+        "imagen": "./img/Computador/02.jpg",
+        "categoria": {
+            "nombre": " Computador",
+            "id": "Computador"
+        },
+        
+        "precio": 1000
+    },
+    {
+        "id": "Computador-03",
+        "titulo": "Pc Gamer Ryzen 5600g",
+        "imagen": "./img/Computador/03.jpg",
+        "categoria": {
+            "nombre": "Computador",
+            "id": "Computador"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Computador-04",
+        "titulo": "Pc Gamer Ryzer 7 5800x",
+        "imagen": "./img/Computador/04.jpg",
+        "categoria": {
+            "nombre": "Computador",
+            "id": "Computador"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Computador-05",
+        "titulo": "Pc gamer I5 10400f",
+        "imagen": "./img/Computador/05.jpg",
+        "categoria": {
+            "nombre": "Computador",
+            "id": "Computador"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Celular-01",
+        "titulo": "IPhone 11 Pro",
+        "imagen": "./img/Celular/01.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "Celular-02",
+        "titulo": "One Plus 7 Pro",
+        "imagen": "./img/Celular/02.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Celular-03",
+        "titulo": "iPhone 14 Pro Max",
+        "imagen": "./img/Celular/03.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "Celular-04",
+        "titulo": "ConePlus 8 Pro",
+        "imagen": "./img/Celular/04.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Celular-05",
+        "titulo": "Galaxy A71",
+        "imagen": "./img/Celular/05.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 2970
+    },
+    {
+        "id": "Celular-06",
+        "titulo": "Samsung Galaxy Note 10",
+        "imagen": "./img/Celular/06.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "Celular-07",
+        "titulo": "IPhone 11",
+        "imagen": "./img/Celular/07.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 2879
+    },
+    {
+        "id": "Celular-08",
+        "titulo": "Huawei P30 PRO",
+        "imagen": "./img/Celular/08.jpg",
+        "categoria": {
+            "nombre": "Celular",
+            "id": "Celular"
+        },
+        "precio": 3510
+    },
+    {
+        "id": "Fones-01",
+        "titulo": "Fone JbL E40Bt",
+        "imagen": "./img/Fones/01.jpg",
+        "categoria": {
+            "nombre": "Fones",
+            "id": "Fones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Fones-02",
+        "titulo": "Fone de Edifer W820nb",
+        "imagen": "./img/Fones/02.jpg",
+        "categoria": {
+            "nombre": "Fones",
+            "id": "Fones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Fones-03",
+        "titulo": "Fone B-09",
+        "imagen": "./img/Fones/03.jpg",
+        "categoria": {
+            "nombre": "Fones",
+            "id": "Fones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Fones-04",
+        "titulo": "Fone Jbl jr310bt",
+        "imagen": "./img/Fones/04.jpg",
+        "categoria": {
+            "nombre": "Fones",
+            "id": "Fones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Fones-05",
+        "titulo": "Fone de Ouvido i7s",
+        "imagen": "./img/Fones/05.jpg",
+        "categoria": {
+            "nombre": "fone",
+            "id": "Fones"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Roupas-01",
+        "titulo": "Camisa",
+        "imagen": "./img/Roupas/02.jpg",
+        "categoria": {
+            "nombre": "Roupas",
+            "id": "Roupas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Roupas-02",
+        "titulo": "Short",
+        "imagen": "./img/Roupas/01.jpg",
+        "categoria": {
+            "nombre": "Roupas",
+            "id": "Roupas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Roupas-03",
+        "titulo": "Bone",
+        "imagen": "./img/Roupas/03.jpg",
+        "categoria": {
+            "nombre": "Roupas",
+            "id": "Roupas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Roupas-04",
+        "titulo": "Tenis",
+        "imagen": "./img/Roupas/04.jpg",
+        "categoria": {
+            "nombre": "Roupas",
+            "id": "Roupas"
+        },
+        "precio": 1000
+    }
+
+]

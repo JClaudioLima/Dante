@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Pagamento</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/payment.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Boas Vindos</title>
+<body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">NovaShopee</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">NovaShopee</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li>
+
+                        <a class="boton-menu boton-volver" href="./Home.html">
+                            <i class="bi bi-arrow-return-left"></i> Voltar
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito active" href="./Carrinho.html">
+                            <i class="bi bi-cart-fill"></i> Carrinho
+                        </a>
+                        
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 NovaShopee</p>
+            </footer>
+        </aside>
+        <main>
+     <div class="monster">
+
+        <main class="container">
+            <div class="left">
+                <h3>Endereço de Entrega</h3>
+                <form>
+                    Nome Completo
+                    <input type="text" name="" placeholder="Enter name">
+                    Email
+                    <input type="text" name="" placeholder="Enter email">
+    
+                    Endereço
+                    <input type="text" name="" placeholder="Enter address">
+                    
+                    Cidade
+                    <input type="text" name="" placeholder="Enter City">
+                    <div id="zip">
+                        <label>
+                            Estado
+                            <select>
+                                <option>Choose State..</option>
+                                <option>Rajasthan</option>
+                                <option>Hariyana</option>
+                                <option>Uttar Pradesh</option>
+                                <option>Madhya Pradesh</option>
+                            </select>
+                        </label>
+                            <label>
+                                CEP
+                            <input type="number" name="" placeholder="Zip code">
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="right">
+                <h3>Pagamento</h3>
+                <form>
+                    Cartão aceito <br>
+                    <img src="./img/Cartao/card1.png" width="100">
+                    <img src="./img/Cartao/card2.png" width="50">
+                    <br><br>
+    
+                    Número do cartão de crédito
+                <input type="text" name="" placeholder="Enter card number">
+                    
+                     mês
+                    <input type="text" name="" placeholder="Enter Month">
+                    <div id="zip">
+                        <label>
+                            Ano
+                            <select>
+                                <option>Choose Year..</option>
+                                <option>2022</option>
+                                <option>2023</option>
+                                <option>2024</option>
+                                <option>2025</option>
+                            </select>
+                        </label>
+                            <label>
+                            CVV
+                            <input type="number" name="" placeholder="CVV">
+                        </label>
+                    </div>
+                    
+                </form>
+                <button
+                id="carrito-acciones-comprar" class="carrito-acciones-comprar"><a href="./Finalizado.html" target="_blank">Finalizar Compra</a>
+                </button>
+            </div>
+        </div>
+            
+           </body>
+       
+		
+	
+	
+</body>
+
+</html>
